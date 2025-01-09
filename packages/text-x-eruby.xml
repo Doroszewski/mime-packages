@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="text/x-eruby">
+    <comment>eRuby template</comment>
+    <comment xml:lang="pl">Szablon w formacie eRuby</comment>
+    <icon name="application-x-ruby"/>
+    <glob-deleteall/>
+    <glob pattern="*.erb"/>
+  </mime-type>
+</mime-info>

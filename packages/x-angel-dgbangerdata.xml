@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="text/x-angel-dgbangerdata">
+    <comment>Prop and breakable configuration for Angel Studios games</comment>
+    <comment xml:lang="pl">Ustawienia rekwizytów do gier Angel Studios</comment>
+    <icon name="text-x-generic"/>
+    <glob-deleteall/>
+    <glob pattern="*.dgBangerData"/>
+  </mime-type>
+</mime-info>

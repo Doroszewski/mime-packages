@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="model/x-angel-pkg">
+    <comment>Model for Angel Studios games</comment>
+    <comment xml:lang="pl">Model do gier Angel Studios</comment>
+    <icon name="unknown"/>
+    <glob-deleteall/>
+    <glob pattern="*.pkg"/>
+  </mime-type>
+</mime-info>

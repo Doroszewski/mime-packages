@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="model/x-angel-bnd">
+    <comment>Text collision boundary model for Angel Studios games</comment>
+    <comment xml:lang="pl">Tekstowy plik kolizji do gier Angel Studios</comment>
+    <icon name="application-x-blender"/>
+    <glob-deleteall/>
+    <glob pattern="*.bnd"/>
+  </mime-type>
+</mime-info>
