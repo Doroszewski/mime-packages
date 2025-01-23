@@ -5,3 +5,6 @@ copy:
 
 update:
 	update-mime-database ~/.local/share/mime/
+
+verify:
+	xmllint --noout ./packages/*.xml

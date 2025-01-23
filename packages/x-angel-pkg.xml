@@ -5,6 +5,6 @@
     <comment xml:lang="pl">Model do gier Angel Studios</comment>
     <icon name="unknown"/>
     <glob-deleteall/>
-    <glob pattern="*.pkg"/>
+    <glob pattern="*.pkg" weight="75"/>
   </mime-type>
 </mime-info>
