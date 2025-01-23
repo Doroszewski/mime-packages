@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="model/x-angel-psdl">
+    <comment>Main city geometry file for Angel Studios games</comment>
+    <comment xml:lang="pl">Główny plik geometrii miasta do gier Angel Studios</comment>
+    <icon name="application-x-sharedlib"/>
+    <glob-deleteall/>
+    <glob pattern="*.psdl"/>
+  </mime-type>
+</mime-info>

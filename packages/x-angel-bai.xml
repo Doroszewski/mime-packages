@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="model/x-angel-bai">
+    <comment>AI pathfinding map for Angel Studios games</comment>
+    <comment xml:lang="pl">Mapa trasowania AI do gier Angel Studios</comment>
+    <icon name="application-x-sharedlib"/>
+    <glob-deleteall/>
+    <glob pattern="*.bai"/>
+  </mime-type>
+</mime-info>
