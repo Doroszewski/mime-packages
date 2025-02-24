@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-angel-mtx">
+    <comment>MTX file for Angel Studios games</comment>
+    <comment xml:lang="pl">Plik MTX do gier Angel Studios</comment>
+    <icon name="application-octet-stream"/>
+    <glob-deleteall/>
+    <glob pattern="*.mtx"/>
+  </mime-type>
+</mime-info>
